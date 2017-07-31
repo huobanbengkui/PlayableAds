@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'PlayableAdsSDK'
+  s.name             = 'PlayableAds'
   s.version          = '1.0.1'
   s.summary          = 'PlayableAds Ad SDK'
 
